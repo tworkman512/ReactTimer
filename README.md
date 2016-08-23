@@ -1,5 +1,5 @@
-# ReactJS Boilerplate Application with Foundation
-A simple boilerplate application built with ReactJS. Comes with Styles, React Router, and Foundation Framework.
+# ReactJS Timer and Counter Application with Foundation
+A simple Timer and Counter application built with ReactJS. Comes with Styles, React Router, and the Foundation Framework.
 
 ## Getting Started
 
